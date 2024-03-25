@@ -2,7 +2,7 @@
 # Fetch Data From [themealdb.com](https://www.themealdb.com/) Api Using Dio . [dio: ^4.0.4](https://pub.dev/packages/dio)
 
 A powerful Http client for Dart, which supports Interceptors, Global configuration, FormData, Request Cancellation, File downloading, Timeout etc.
-<img src="https://user-images.githubusercontent.com/82768399/160614936-6c0079c1-2876-40b6-95d3-0aaa266c9ada.png" width="900" >
+
 ## Getting Started
 
 - ### Download this package as a library
